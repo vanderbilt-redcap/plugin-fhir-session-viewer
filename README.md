@@ -8,7 +8,7 @@ PLEASE NOTE: a FHIR session, differently from a standard authentication session,
 
 To inspect the content of a session:
 
-* install the attached plugin (view-fhir-session.php) in your REDCap instance
+* install the plugin in your REDCap instance
 * visit the plugin page (e.g., https://redcap.test/plugins/view-fhir-session)
 * select the session from the dropdown menu or type the session_id in the input field
 click on "View"
